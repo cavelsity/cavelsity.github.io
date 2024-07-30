@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cavelsity.github.io/sitemap.html.gz
+Sitemap: https://cavelsity.github.io/app/sitemap.html.gz
+Sitemap: https://cavelsity.github.io/assets/sitemap.html.gz
+Sitemap: https://cavelsity.github.io/css/sitemap.html.gz
+Sitemap: https://cavelsity.github.io/includes/sitemap.html.gz
+Sitemap: https://cavelsity.github.io/item/sitemap.html.gz
+Sitemap: https://cavelsity.github.io/src/sitemap.html.gz
